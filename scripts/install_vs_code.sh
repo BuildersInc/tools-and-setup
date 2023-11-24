@@ -1,8 +1,12 @@
+cd ~/Downloads
+wget -O vscode.deb https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64
+sudo apt insatll ./vscode.deb
+
+
 code --install-extension 74th.monokai-charcoal-high-contrast
 code --install-extension aaron-bond.better-comments
 code --install-extension asciidoctor.asciidoctor-vscode
 code --install-extension azemoh.one-monokai
-code --install-extension bungcip.better-toml
 code --install-extension codezombiech.gitignore
 code --install-extension cschlosser.doxdocgen
 code --install-extension DavidAnson.vscode-markdownlint
