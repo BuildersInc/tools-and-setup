@@ -53,4 +53,5 @@ code --install-extension vscjava.vscode-java-dependency
 code --install-extension vscjava.vscode-java-pack
 code --install-extension vscjava.vscode-java-test
 code --install-extension vscjava.vscode-maven
+code --install-extension ctf0.save-editors-layout
 code --install-extension WakaTime.vscode-wakatime
